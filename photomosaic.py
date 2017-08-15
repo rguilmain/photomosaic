@@ -1,4 +1,4 @@
- """Given a target image and a directory of source images, makes a photomosaic.
+"""Given a target image and a directory of source images, makes a photomosaic.
 """
 
 import argparse
