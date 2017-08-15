@@ -1,2 +1,2 @@
 # photomosaic
-A tool for making photographic mosaics.
+A tool for making photographic mosaics
